@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ByteCoin
 //
-//  Created by Angela Yu on 11/09/2019.
+//  Created by Badal  Aryal on 17/01/2024.
 //  Copyright © 2019 The App Brewery. All rights reserved.
 //
 
